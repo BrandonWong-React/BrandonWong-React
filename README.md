@@ -1,6 +1,6 @@
 ### Welcome 👋
 
-I'm a senior software engineer with **Web and Mobile App** development. </br>
+I'm a senior software engineer with a proven track of records on **WEB & MOBILE APP development** </br>
 Creativity, innovative mind with following the latest techonologies, I am also up-to-date with blockchain technology with smart contract development. </br>
 **React Native** is my best specialty along with **React** on various enterprise-level products </br>
 I’m also an **Open-Source** enthusiast with all of my projects open-sourced on [Github](https://github.com/DemarLee?tab=repositories).
