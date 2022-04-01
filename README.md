@@ -5,29 +5,23 @@ Creativity, innovative mind with following the latest techonologies, I am also u
 **React Native** is my best specialty along with **React** on various enterprise-level products </br>
 I’m also an **Open-Source** enthusiast with all of my projects open-sourced on [Github](https://github.com/BrandonWong-React?tab=repositories).
 <br/>
-<br/>
 
-✈️ Open to Remote Job Opportunities </br>
+✈️ Find Remove Job Opportunities </br>
 ⏲️ Full-time availability </br>
 ☎️ Team collaboration </br>
 
 💎 React </br>
 💎 React Native </br>
 💎 Redux </br>
-💎 Node.js </br>
+💎 TypeScript </br>
 💎 GraphQL / Apollo </br>
-💎 Firebase </br>
-💎 Solidity & Ethereum </br>
-💎 Rust & Solana </br>
-
-<br/>
+💎 HTML </br>
+💎 CSS </br>
+💎 Node.js </br>
 
 ### 📈 GitHub Stats
 
 
-<a href="https://github.com/BrandonWong-React?tab=repositories">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=BrandonWong-React&show_icons=true&count_private=true&include_all_commits=true&line_height=21&show_icons=true&theme=vue&hide_border=false" alt="BrandonWong-React's github stats--" />
-</a> 
 <a href="https://github.com/BrandonWong-React?tab=repositories">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrandonWong-React&show_icons=true&layout=compact&theme=vue&hide_border=false&langs_count=8" />
